@@ -30,6 +30,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@r3mrcg00129437x.cybervena.com:50099#🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaE5EMGRBK2t6NTY3TER4b29HZU50Y0NjaGtQdFBPNVhFdTFmODFPNU8wPQ@138.201.197.177:2223#🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdkhCblJtZUZhWUI1UkVVQi1zeXln@scary.iran-games.ir:3090#🇮🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#🇮🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun4.greewebservices.ir:1040#🇮🇷
@@ -53,6 +54,8 @@ ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#🇩🇪
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#🇨🇦
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🇺🇸
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.120.158.57:443#🇩🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#🇸🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#🇨🇷
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵
 ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ@194.87.196.13:10661#🇷🇺
 ss://YWVzLTI1Ni1nY206T1VkRXNIMUdHcmhhMFFPSw@103.136.68.36:8388#🇸🇬
@@ -128,6 +131,7 @@ vless://040e129c-f6bc-4f7c-8351-bcbab5078cd1@91.196.161.218:2054?encryption=none
 vless://05ac00f7-7512-4d9c-a8dd-56d26b2ecc71@lit7.litiran.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&host=image-fr.vipfast6.shop&type=xhttp&sni=image-fr.vipfast6.shop#🏳️
 vless://06090904-b521-48c5-9e12-fdd893f7c4e8@soft98ir.pingonegame.site:39523?encryption=none&type=tcp&security=reality&fp=safari&sni=android.com&pbk=7btPWPyX7Pz0G8hWnGZe9VF9po8uxf5b3j8KvFbCPgs&sid=907a3ffb078929&spx=/2b7574a5b00ae88#🇷🇺
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇭🇰
+vless://087b7466-841b-40ff-9a0f-a7cf02a6164d@162.159.82.123:2053?type=ws&encryption=none&host=du.roomode.ir&security=tls&sni=du.roomode.ir&fp=chrome&path=%2F&headerType=none#🏳️
 vless://08809ac0-3e44-4f0a-9896-e59daf3c2930@191.101.113.19:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=191.101.113.19#🇳🇱
 vless://090e5985-bbeb-4400-8278-d3a8e9ae5d92@188.114.97.6:443?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=shy-star-7967.311-f0b.workers.dev&type=ws&allowInsecure=0&sni=shy-star-7967.311-f0b.workers.dev#🏳️
 vless://0a419fe1-068e-422f-911a-4977fa944e08@195.201.9.235:11342?security=reality&encryption=none&pbk=W2swPTQYWu_rfjh2fnyzQ5zg6lK5wKv2Z-mBpVI6_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=6f7b38bd9420c4b8#🇩🇪
@@ -194,7 +198,3 @@ vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-1.starsping.com:443?mode=auto&pa
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-2.starsping.com:443?encryption=none&security=reality&sni=www.icloud.com&fp=edge&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&sid=a88550765b9956ee&spx=%2F&type=xhttp&path=%2F&mode=auto#🇩🇪
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-2.starsping.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=edge&spx=%2F&type=xhttp&sni=www.icloud.com&sid=a88550765b9956ee#🇩🇪
 vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#🇨🇾
-vless://17a7a914-5199-4651-98ba-6c6909030e20@178.105.218.75:28110?security=&encryption=none&host=www.google.com&headerType=http&type=tcp#🇩🇪
-vless://17a7a914-5199-4651-98ba-6c6909030e20@178.105.218.75:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#🇩🇪
-vless://17f6daad-7238-4c23-99f6-c01e09c83dde@45.140.205.112:443?security=reality&encryption=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.callibri.ru&sid=66ca#🇮🇱
-vless://18444d92-1d84-4fd2-916c-0d7e9598ab6e@poi.mobileemdad.top:42542?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮
