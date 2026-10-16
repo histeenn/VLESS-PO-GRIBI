@@ -10,7 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTIzNGM2MC1iMDFhLTRkNjctODg5YS1jYWI1OGFiMDA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTIzNGM2MC1iMDFhLTRkNjctODg5YS1jYWI1OGFiMDA2MWE@mm.good2026.com:11186#🇭🇰
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6LTNiWkk2T2g4MG9KUTdjUUVtVDJseEwtbjlqVEtsUQ@ir.yzcq.ir:2060#🇮🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bEhNcEk3TjVka1pPSGRI@20.87.212.24:443#🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#🇮🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNXNFdlppS21lbnMxMDRC@20.234.97.18:443#🇮🇪
@@ -30,7 +29,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSGVOakowVXNoN0hodDJwMmNjaHhn@31.56.228.92:1080#🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNHhBOG1UdWVQS2FPam9NdXg4dHRn@cdn-2d12.giftcardbazarbot.com:8243#🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSmU3dW1TdEljazVNaWVn@20.166.59.119:443#🇮🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqbTI3TlVfaTB5aUQwbWdjLUdtVkhqQ1lSelN0T3BGUg@tun.chipsomast.ir:9851#🇮🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqbTI3TlVfaTB5aUQwbWdjLUdtVkhqQ1lSelN0T3BGUg@tun1.chipsomast.ir:9851#🇮🇷
@@ -46,6 +44,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#🇬🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#🇬🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbF9wUVVrandvSjI2MlpTZUk2ZzBB@78d8.donyumvps.tr:37116#🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇬🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#🇬🇬
@@ -97,6 +96,8 @@ vless://05102194-fc99-4b80-9ab3-d4f0c6f57c33@tamiiiiz.aryan-sport.ir:2095?path=%
 vless://0560c344-77cb-4577-9738-b727add13bdf@65.109.215.23:33090?security=reality&encryption=none&pbk=NSuiS1dkzfLDKuojda6c7M97AEUDvHX3idkgETk8OG8&headerType=&fp=chrome&spx=%2Fd3ef4bf4ceb64e6&type=tcp&sni=play.google.com&sid=4e9d88c3d72ce167#🇫🇮
 vless://05d7a479-a099-40cf-aecf-41aa934767b0@ch1.hap-plus.ru:443?security=reality&encryption=none&pbk=NItAy5Fi072QpLZ_fscMRjXSIDpR7M3IUUlW6LvXYwE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.hap-plus.ru&sid=23ef2df191b16ed6#🇮🇱
 vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&host=nl5.hap-plus.ru&fp=chrome&type=ws&sni=nl5.hap-plus.ru#🇳🇱
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🇳🇱
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=firefox&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🇳🇱
 vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🇳🇱
 vless://0617eade-fb92-422f-9b59-c9a4b65b2906@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mr_anonoijji.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=speedtest.net#🏳️
 vless://0617eade-fb92-422f-9b59-c9a4b65b2906@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mr_anonoijji.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=speedtest.net#🏳️
@@ -172,7 +173,6 @@ vless://1f53fbaf-a976-47ad-8df7-ee89bf803c97@199.232.78.159:443?security=tls&enc
 vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&security=tls&sni=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&host=ocober-romania-new.yyuyy.com&path=%2Fapi%2Fv1#🇷🇴
 vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#🇷🇴
 vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?security=tls&sni=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&path=/api/v1&host=ocober-romania-new.yyuyy.com&packetEncoding=xudp&encryption=none#🇷🇴
-vless://2025c068-34d1-4007-80e6-168ea7533cee@62.60.219.41:25500?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.whl2oXkBLAXJm-o67iKLKvhTTJxA5IFPFzBVC3f14lU&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇮🇷
 vless://2040f170-de2a-49bb-a903-125f0731c54d@153.76.185.93:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#🇨🇿
 vless://20f21d96-3700-46d9-9f63-5933403c0c18@104.16.101.215:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=restless-math-7bde.299-75c.workers.dev&type=ws#🏳️
 vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=free.nadun.store&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=free.nadun.store#🏳️
