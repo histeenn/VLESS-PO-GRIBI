@@ -79,6 +79,7 @@ ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ@154.36.158.197:8388#🇯🇵
 ss://YWVzLTI1Ni1nY206QnpHNE9pZGtMQmlqVDA0WUdJeVZNWEJkOWVTLWNhVmk@Tak.zqpm.ir:8989#🇮🇷
 ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@176.32.34.253:18443#🇷🇺
 ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.34:18443#🇷🇺
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#🇺🇸
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#🇨🇦
@@ -101,7 +102,6 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#🇮🇹
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#🇺🇸
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.32.108:18443#🇷🇺
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇫🇷
@@ -135,7 +135,6 @@ vless://0075be7a-1f52-407b-81c1-7a0cb109e814@188.114.97.0:2087?encryption=none&s
 vless://00981019-a040-4b3c-a96f-64ee9957b1e3@216.245.184.90:443?security=reality&encryption=none&pbk=fkvsZjRl-E8jeLZ-5n9YVghrpTYSaLudDzqb4kzjGDU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2Fb4b6c0191de5a08&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=10fa6aa631#🇺🇸
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=co-pl.speedtec.ru&fp=random&headerType=none#🇷🇺
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#🇷🇺
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#🇷🇺
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-es.speedtec.ru&sid=226509f017e4c36d#🇷🇺
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=co-es.speedtec.ru&sid=226509f017e4c36d#🇷🇺
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=co-nl.speedtec.ru&sid=226509f017e4c36d#🇷🇺
@@ -198,3 +197,4 @@ vless://0cdf443e-9242-41c7-a817-3aaffe825d93@dns4.m3hrzd.ir:2800?security=realit
 vless://0cdf443e-9242-41c7-a817-3aaffe825d93@dns5.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#🇳🇱
 vless://0d1b1b75#🏳️
 vless://0dbd877c-0246-4402-850a-140e60875c95@9.247.24.137:443?security=reality&encryption=none&pbk=RsKkbNbhdvmf6VtNZslU_3yNrUcHFBLJSuJZNAZO6VE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.prizradar.by&sid=2d#🇦🇪
+vless://0ea761b7-298b-4ea8-8169-434bb11201ae@5.22.211.151:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=BUtLRoR2gesupM09lWH5YZliYjwGdHfALOR1zF6RPzM&fp=firefox&spx=%2F2f5d35fa9d4bd09&type=xhttp&sni=gitlab.io&sid=53ec4a#🇫🇮
